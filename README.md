@@ -6,16 +6,16 @@ I build analytics solutions that turn data into actionable insights, with a focu
 
 ### 🛠️ Tech Stack
 
-**BI & Visualization**
+**BI & Visualization:**
 Tableau · Power BI · Looker Studio
 
-**Cloud Analytics**
+**Cloud Analytics:**
 Google BigQuery
 
-**Analytics Engineering**
+**Analytics Engineering:**
 SQL · dbt · Data Modeling · ELT
 
-**Programming & Tools**
+**Programming & Tools:**
 Python · Git · GitHub
 
 ### 📊 What I Work On
