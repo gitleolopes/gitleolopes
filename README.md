@@ -24,7 +24,7 @@ Python · Git · GitHub
 * Developing analytical data models with SQL and dbt
 * Working with cloud data platforms and BigQuery
 * Analyzing data consumption and cloud costs
-* Designing dashboards that support business decisions
+* Translating business requirements into analytical solutions
 * Improving data quality, observability, and reporting processes
 
 ### 🚀 Featured Projects
