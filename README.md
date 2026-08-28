@@ -8,20 +8,16 @@ My work sits at the intersection of **data, technology, and business** — build
 
 ### 🛠️ Tech Stack
 
-**Business Intelligence & Visualization**
-
+**Business Intelligence & Visualization:** 
 Tableau · Power BI · Looker Studio
 
-**Cloud Analytics**
-
+**Cloud Analytics:** 
 Google BigQuery
 
-**Analytics Engineering**
-
+**Analytics Engineering:** 
 SQL · dbt · Data Modeling · Data Transformation · ELT
 
-**Programming & Tools**
-
+**Programming & Tools:** 
 Python · Git · GitHub
 
 ### 📊 What I Build
