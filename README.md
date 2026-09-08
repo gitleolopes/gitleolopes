@@ -11,14 +11,14 @@ My work sits at the intersection of **data, technology, and business** — build
 **Business Intelligence & Visualization:** 
 Tableau · Power BI · Looker Studio
 
-**Cloud Analytics:** 
-Google BigQuery
-
 **Analytics Engineering:** 
 SQL · dbt · Data Modeling · Data Transformation · ELT
 
+**Cloud Analytics:** 
+Google BigQuery
+
 **Programming & Tools:** 
-Python · Git · GitHub
+Python · Pandas · Git · GitHub
 
 ### 📊 What I Build
 
@@ -38,6 +38,10 @@ A BigQuery cost and workload analytics solution built with SQL and Tableau to im
 **[dbt Projects](https://github.com/gitleolopes/dbt_projects)**
 
 Analytics engineering projects focused on modular data transformation, dimensional modeling, documentation, and automated testing with dbt.
+
+**[Python Projects](https://github.com/gitleolopes/python_projects)**
+
+Analytics projects built with Python and Pandas, focused on data quality, transformation, analysis, and visualization.
 
 ### 📚 Certifications
 
