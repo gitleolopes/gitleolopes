@@ -31,6 +31,10 @@ Python · Pandas · Git · GitHub
 
 ### 🚀 Featured Projects
 
+**[Payment Performance & Merchant Insights](https://github.com/gitleolopes/python_projects/tree/main/payment_performance)**
+
+A Python-based business analytics project using synthetic payment transactions to analyze approval rates, merchant performance, and payment channel trends. Identifies performance gaps, investigates changes in approval rates, and translates findings into business recommendations and monitoring priorities.
+
 **[BigQuery Cost Observability](https://public.tableau.com/app/profile/tableauleolopes/viz/BigQueryCosts/General)**
 
 A BigQuery cost and workload analytics solution built with SQL and Tableau to improve visibility into cloud consumption, query performance, and cost drivers.
