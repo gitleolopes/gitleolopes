@@ -4,7 +4,7 @@
 
 I turn untrusted data into fast, governed, and trusted analytics.
 
-My work sits at the intersection of **data, technology, and business** — building reliable analytical foundations, transforming data into reusable models, and delivering BI solutions that people can trust to make decisions.
+My work sits at the intersection of **data, technology, and business** — building reliable analytical foundations, transforming data into reusable models, and delivering insights that support informed business decisions.
 
 ### 🛠️ Tech Stack
 
